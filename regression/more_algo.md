@@ -1,0 +1,3 @@
+SVR - support vector regression
+NearestNeighborRegressor
+etc...
